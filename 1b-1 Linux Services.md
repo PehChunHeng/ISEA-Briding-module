@@ -1,3 +1,11 @@
+Reflection:
+Installed Apache2 and nmap server, enabling firewall and also troubleshooting for SCP usage. 
+Used nmap to scan my own vm and see the ports allowed 
+Used firewall to deny nmap scan to prevent my ports from being discovered 
+Used SCP to transfer testfile3 from my vm to my host device. Had to troubleshoot as i realised that i needed to install openssh server on my host device and configure firewall rule to allow port 22 for ssh so that scp can transfer the file from vm to host device. 
+Deleted my openssh server from my host device as i no longer needed it and it posed a unnecessary security risk for my host device, hence, i removed all aspects of it after being done with scp.
+
+Screenshot of what was done for this lab: 
 <img width="689" height="388" alt="image" src="https://github.com/user-attachments/assets/305c4c1d-4ca3-4ab0-b411-dd3b4a5dc0fe" />
 Installed Apache2
 
