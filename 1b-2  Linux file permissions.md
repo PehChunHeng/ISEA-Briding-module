@@ -1,3 +1,7 @@
+reflection:
+Learned about different groups and permission rights to folders. Learn to set those permission for owner, groups and others. Learnt to add users to sudoers to allow them to sudo/force commands. 
+
+screenshots of what was done for this lab 
 <img width="630" height="218" alt="image" src="https://github.com/user-attachments/assets/393b2006-0733-4d27-8020-821a1bae0199" />
 <img width="681" height="428" alt="image" src="https://github.com/user-attachments/assets/72b5b740-0d3d-42c3-877e-945164b6b577" />
 creating groups and users alice, bob and mallory
