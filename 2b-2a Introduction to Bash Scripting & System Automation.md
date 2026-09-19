@@ -37,3 +37,6 @@ Creating bash script
 <img width="434" height="65" alt="image" src="https://github.com/user-attachments/assets/fd09b75a-32e7-47c6-8264-058073c65ba4" />
 
 Change file permission to allow everyone to access
+
+<img width="365" height="59" alt="image" src="https://github.com/user-attachments/assets/bcbfa726-661a-4d83-8423-4e7200106c73" />
+Run bash script
