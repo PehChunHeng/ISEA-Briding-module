@@ -29,7 +29,8 @@ Remove old notes
 
 create script file called hello_world.sh
 
-<img width="724" height="566" alt="image" src="https://github.com/user-attachments/assets/f4473947-83f8-4339-909b-d5b72266cbef" />
+<img width="821" height="565" alt="image" src="https://github.com/user-attachments/assets/a829e614-e3d2-4c7f-8d27-fae5e97680d7" />
+
 
 Creating bash script 
 
