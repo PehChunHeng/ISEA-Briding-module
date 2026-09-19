@@ -39,4 +39,33 @@ Creating bash script
 Change file permission to allow everyone to access
 
 <img width="365" height="59" alt="image" src="https://github.com/user-attachments/assets/bcbfa726-661a-4d83-8423-4e7200106c73" />
+
 Run bash script
+
+<img width="708" height="527" alt="image" src="https://github.com/user-attachments/assets/0a1ec99e-b127-4960-9fb0-e8608b5aa79e" />
+
+Created script called getusernum.sh 
+
+<img width="453" height="71" alt="image" src="https://github.com/user-attachments/assets/1b5348a4-17c0-43a6-8171-038df2dd7669" />
+
+Allow all file permissions
+
+<img width="432" height="171" alt="image" src="https://github.com/user-attachments/assets/a7b0d11e-51b7-4ca5-9a8a-129304b68ca4" />
+
+Run script
+
+<img width="657" height="251" alt="image" src="https://github.com/user-attachments/assets/56990570-668e-4a0d-a183-165cc703004e" />
+
+Create resource monitoring script, allow file permissions
+
+<img width="660" height="400" alt="image" src="https://github.com/user-attachments/assets/b1023cf2-3ff7-4709-bff4-49768be9ea21" />
+
+contents of resource monitoring script
+
+<img width="670" height="308" alt="image" src="https://github.com/user-attachments/assets/19f5fe97-6c67-4a00-8b7f-fae65a92ccbc" />
+
+<img width="762" height="468" alt="image" src="https://github.com/user-attachments/assets/81ffcf28-05d1-4902-a306-99ba74e1ddc6" />
+
+
+Run script, get script to monitor 6 times 
+
